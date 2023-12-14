@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace bookstore2023.models
+namespace bookstore2023.bl.Services
 {
-    internal class
+    internal class BookService
     {
-    
     }
 }
